@@ -1,2 +1,2 @@
 # lstm-time-series
-One of assignments during my participation on Fresh Graduate Academy - Digital Talent Scholarship
+Salah satu project akhir selama partisipasi saya pada Fresh Graduate Academy - Digital Talent Scholarship 
